@@ -24,4 +24,8 @@ Code is directly taken from these two docs from the Electron team, **all credit 
 
 ## License
 
+---
+
+![touch bar gif](./images/demo.gif)
+
 Copyright (C) 2021 Mark Phillips ([MIT](LICENSE))
