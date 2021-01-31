@@ -1,8 +1,8 @@
-# electron-touch-bar
+# electron-touch-bar farting and saying f**k
 
-A little demo Electron app showing how to program the new MacBook Pro's touch bar.
+![touch bar screenshot](./images/demo.png)
 
-![touch bar demo in action](touch-bar-demo.gif)
+[touch bar demo in action](https://youtu.be/X6nTunDjzIc)
 
 Code is directly taken from these two docs from the Electron team, **all credit goes to them!**
 
@@ -24,4 +24,4 @@ Code is directly taken from these two docs from the Electron team, **all credit 
 
 ## License
 
-Copyright (C) 2017 Patrick Hund ([MIT](LICENSE))
+Copyright (C) 2021 Mark Phillips ([MIT](LICENSE))
